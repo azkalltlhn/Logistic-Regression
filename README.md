@@ -11,8 +11,8 @@ Logistic Regression is a statistical method for binary classification that model
 # Installation and Usage
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
-
+   git clone https://github.com/azkalltlhn/Logistic-Regression-Algorithm.git
+   
 2. **Install the required dependencies::**
    ```bash
    pip install numpy pandas scikit-learn matplotlib seaborn
